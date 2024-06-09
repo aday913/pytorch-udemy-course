@@ -1,3 +1,11 @@
+# Data (can be found from the udemy course)
+PYTORCH_NOTEBOOKS/Data
+PYTORCH_NOTEBOOKS/03-CNN-Convolutional-Neural-Networks/CustomImageCNNModel-master.pt
+PYTORCH_NOTEBOOKS/06-NLP-with-PyTorch/*.net
+
+# virtual env specifically for gpu tasks
+gpu_venv/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
